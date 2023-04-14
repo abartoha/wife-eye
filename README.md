@@ -1,4 +1,4 @@
-"# Wife Eye
+# Wife Eye
 
 Shows all wifi passwords on Windows
 
