@@ -1,6 +1,6 @@
 # Wife Eye
 
-![image](https://user-images.githubusercontent.com/63369209/232154425-e9cdd29c-065f-4a5d-80ff-6c06b449dd3a.png)
+![image](https://user-images.githubusercontent.com/63369209/232154763-be14069e-1cbc-41c6-a892-2b027072b7d3.png)
 
 Shows all wifi passwords on Windows
 
